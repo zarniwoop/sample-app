@@ -6,6 +6,6 @@ tmp/**/*
 tmp/*
 doc/api
 doc/app
-*.lock
+*.swp
 *~
 .DS_Store
